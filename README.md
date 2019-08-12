@@ -19,4 +19,6 @@ getting-started/index.js.
 
 #### Enjoy! 
 
+##### I edited this readme.md as an example!
+
 
